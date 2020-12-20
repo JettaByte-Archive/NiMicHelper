@@ -1,0 +1,10 @@
+D:\NoMicLiveHelper\NoMicLiveMicProgram\bin\Debug\NoMicLiveMicProgram.exe.config
+D:\NoMicLiveHelper\NoMicLiveMicProgram\bin\Debug\NoMicLiveMicProgram.exe
+D:\NoMicLiveHelper\NoMicLiveMicProgram\bin\Debug\NoMicLiveMicProgram.pdb
+D:\NoMicLiveHelper\NoMicLiveMicProgram\obj\Debug\NoMicLiveMicProgram.csprojAssemblyReference.cache
+D:\NoMicLiveHelper\NoMicLiveMicProgram\obj\Debug\NoMicLiveMicProgram.Form1.resources
+D:\NoMicLiveHelper\NoMicLiveMicProgram\obj\Debug\NoMicLiveMicProgram.Properties.Resources.resources
+D:\NoMicLiveHelper\NoMicLiveMicProgram\obj\Debug\NoMicLiveMicProgram.csproj.GenerateResource.cache
+D:\NoMicLiveHelper\NoMicLiveMicProgram\obj\Debug\NoMicLiveMicProgram.csproj.CoreCompileInputs.cache
+D:\NoMicLiveHelper\NoMicLiveMicProgram\obj\Debug\NoMicLiveMicProgram.exe
+D:\NoMicLiveHelper\NoMicLiveMicProgram\obj\Debug\NoMicLiveMicProgram.pdb
