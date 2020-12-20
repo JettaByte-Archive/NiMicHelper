@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMicLiveMicProgram", "NoMicLiveMicProgram.csproj", "{B4CB83F8-33DA-414D-A4C5-402587FC1BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CB83F8-33DA-414D-A4C5-402587FC1BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CB83F8-33DA-414D-A4C5-402587FC1BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CB83F8-33DA-414D-A4C5-402587FC1BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CB83F8-33DA-414D-A4C5-402587FC1BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480A33C0-D8D4-4837-A26E-44A47BF34D89}
+	EndGlobalSection
+EndGlobal
